@@ -1,0 +1,4 @@
+interface:
+  display_name: "Email Myself"
+  short_description: "Send private notes to your own inbox"
+  default_prompt: "Use $email-myself to email this content to me."

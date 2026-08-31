@@ -1,0 +1,4 @@
+interface:
+  display_name: "Poetry Critic"
+  short_description: "Detailed, humane, stanza-level poetry critique"
+  default_prompt: "Use $critique-poetry to give this poem a detailed, constructive critique."
